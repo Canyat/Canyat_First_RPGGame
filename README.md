@@ -1,0 +1,2 @@
+# Canyat_First_RPGGame
+用Python的基础知识写的小rpg游戏，仅用于实践练手
